@@ -1,0 +1,22 @@
+/* YOUR STYLE GOES IN HERE */
+.card {
+  width: 250px;
+  border: 3px;
+  border-style: solid;
+  border-color: #ffbfa9;
+  border-radius: 10px;
+  text-align: center;
+  padding: 10px;
+  /* now feel free to add css
+ */
+}
+img {
+  width: 200px;
+  border-width: 6px;
+  border-color: #fbffb1;
+  border-style: solid;
+  border-radius: 50%;
+  /* the border-radius determine the shape of image. 50% is set to be circular if you start with a square image */
+  background-color: #ffacac;
+  /* now feel free to add css */
+}

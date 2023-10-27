@@ -1,0 +1,4 @@
+Which CSS property makes the photo to be circular? (square photo => circle)
+=> Border - radius 50% 
+square => rectangle: 
+
